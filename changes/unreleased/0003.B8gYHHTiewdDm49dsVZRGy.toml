@@ -1,0 +1,5 @@
+other = "Bump Bibo-Joshi/chango from 0.4.0 to 0.5.0"
+[[pull_requests]]
+uid = "3"
+author_uids = ["dependabot[bot]"]
+closes_threads = []
